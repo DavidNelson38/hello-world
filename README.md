@@ -1,4 +1,4 @@
 # hello-world
 GitHub Tutorial
 
-I welcome our computer overlords.
+I, for one, welcome our new computer overlords.
